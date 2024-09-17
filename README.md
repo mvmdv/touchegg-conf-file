@@ -4,6 +4,14 @@ https://github.com/JoseExposito/touchegg
 this is only a configration file thanks to @JoseExposito for the tools.
 most gestures on the file may only works on kde enviroment
 
+downloading and moving the file to its correct diractory
+```shell
+git clone https://github.com/mvmdv/touchegg-conf-file
+cd Touchegg*
+mkdir ~/.config/touchegg
+cp touch* ~/.config/touchegg/
+```
+
 Swipe
 - 3 fingers:
  - down:show desktop
