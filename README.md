@@ -7,7 +7,7 @@ most gestures on the file may only works on kde enviroment
 downloading and moving the file to its correct diractory
 ```shell
 git clone https://github.com/mvmdv/touchegg-conf-file
-cd Touchegg*
+cd touchegg-conf-file
 mkdir ~/.config/touchegg
 cp touch* ~/.config/touchegg/
 ```
