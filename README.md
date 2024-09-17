@@ -2,7 +2,7 @@ You first need to install touchegg from:
 https://github.com/JoseExposito/touchegg
 
 this is only a configration file thanks to @JoseExposito for the tools.
-some gestures on the file may only works on kde enviroment
+most gestures on the file may only works on kde enviroment
 
 Swipe
 - 3 fingers:
