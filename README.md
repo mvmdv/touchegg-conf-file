@@ -6,18 +6,18 @@ some gestures on the file may only works on kde enviroment
 
 Swipe
 - 3 fingers:
-  down:show desktop
-  up:show workspace
-  left-right: swith desktop
+ - down:show desktop
+ - up:show workspace
+ - left-right: swicth desktop
 
 - 4 fingers:
-  up:increase volume
-  down decrease volume
+ - up:increase volume
+ - down decrease volume
 
-Pinch
-- 2 fingers:
+-Pinch
+ - 2 fingers:
   zoom in and out
-- 3 fingers:
+ - 3 fingers:
   Show Desktop Grid
   
 
